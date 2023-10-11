@@ -19,5 +19,4 @@ jobs:
         with:
           application-id: BQwchYHC0ZRgQdNmyJbNgQ-a
           environment-id: Xu6sfrOe5pU7PeNKTwMZpQ-e
-          plan-labels:| 
-              mabl
+          plan-labels: mabl
